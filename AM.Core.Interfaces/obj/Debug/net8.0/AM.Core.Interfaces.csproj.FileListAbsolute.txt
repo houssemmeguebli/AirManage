@@ -1,0 +1,22 @@
+C:\Users\khalf\Downloads\tp 6 q7\tp 6 q7\AM.Core.Interfaces\bin\Debug\net8.0\AM.Core.Interfaces.deps.json
+C:\Users\khalf\Downloads\tp 6 q7\tp 6 q7\AM.Core.Interfaces\bin\Debug\net8.0\AM.Core.Interfaces.dll
+C:\Users\khalf\Downloads\tp 6 q7\tp 6 q7\AM.Core.Interfaces\bin\Debug\net8.0\AM.Core.Interfaces.pdb
+C:\Users\khalf\Downloads\tp 6 q7\tp 6 q7\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khalf\Downloads\tp 6 q7\tp 6 q7\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.AssemblyInfoInputs.cache
+C:\Users\khalf\Downloads\tp 6 q7\tp 6 q7\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.AssemblyInfo.cs
+C:\Users\khalf\Downloads\tp 6 q7\tp 6 q7\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\khalf\Downloads\tp 6 q7\tp 6 q7\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.dll
+C:\Users\khalf\Downloads\tp 6 q7\tp 6 q7\AM.Core.Interfaces\obj\Debug\net8.0\refint\AM.Core.Interfaces.dll
+C:\Users\khalf\Downloads\tp 6 q7\tp 6 q7\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.pdb
+C:\Users\khalf\Downloads\tp 6 q7\tp 6 q7\AM.Core.Interfaces\obj\Debug\net8.0\ref\AM.Core.Interfaces.dll
+C:\Users\megbl\Desktop\.NET\New folder (3)\AM.Core.Interfaces\bin\Debug\net8.0\AM.Core.Interfaces.deps.json
+C:\Users\megbl\Desktop\.NET\New folder (3)\AM.Core.Interfaces\bin\Debug\net8.0\AM.Core.Interfaces.dll
+C:\Users\megbl\Desktop\.NET\New folder (3)\AM.Core.Interfaces\bin\Debug\net8.0\AM.Core.Interfaces.pdb
+C:\Users\megbl\Desktop\.NET\New folder (3)\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\megbl\Desktop\.NET\New folder (3)\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.AssemblyInfoInputs.cache
+C:\Users\megbl\Desktop\.NET\New folder (3)\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.AssemblyInfo.cs
+C:\Users\megbl\Desktop\.NET\New folder (3)\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\megbl\Desktop\.NET\New folder (3)\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.dll
+C:\Users\megbl\Desktop\.NET\New folder (3)\AM.Core.Interfaces\obj\Debug\net8.0\refint\AM.Core.Interfaces.dll
+C:\Users\megbl\Desktop\.NET\New folder (3)\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.pdb
+C:\Users\megbl\Desktop\.NET\New folder (3)\AM.Core.Interfaces\obj\Debug\net8.0\ref\AM.Core.Interfaces.dll
